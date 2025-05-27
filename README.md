@@ -1,6 +1,6 @@
 # Python101
 Python101
-# Mi Proyecto
+Se realizaron ejercicio de Python 101
 
 
 
